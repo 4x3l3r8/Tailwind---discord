@@ -18,3 +18,4 @@ Run  "``npm run watch``" to track changes made in real-time and compile.
 
 
 ### Happy Hacking!
+NB: The discord isn't clickbait. It wasn't intentional
